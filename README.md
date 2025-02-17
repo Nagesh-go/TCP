@@ -1,0 +1,1 @@
+This project demonstrates a simple implementation of TCP communication between a client and a server using Python's `socket` library. The server listens for incoming connections, and the client sends a message and receives a response.
